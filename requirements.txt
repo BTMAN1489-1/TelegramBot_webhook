@@ -1,0 +1,6 @@
+aiodns==3.0.0
+aiogram==2.14.3
+cchardet==2.1.7
+emoji==1.4.1
+environs==9.3.2
+uvloop==0.15.3
